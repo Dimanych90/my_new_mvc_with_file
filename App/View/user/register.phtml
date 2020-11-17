@@ -1,0 +1,29 @@
+
+<?php echo $title; ?>
+<br>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+<br>
+<br>
+<form action="/user/register" method="post">
+    Login:   <input type="text" name="name" value=""><br>
+    Password:  <input type="text" name="password" value=""><br>
+<!--    email:  <input type="text" name="email" value=""><br>-->
+    <input type="submit" value="registr">
+</form>
+</body>
+</html>
+
+<br>
+<?php /** @var \App\Model\User[] $users*/ ?>
+
+<?php if (empty($users)): ?>
+
+    <?php echo "You need to register at first"?>
+<?php endif; ?>

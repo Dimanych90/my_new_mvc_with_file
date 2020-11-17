@@ -1,0 +1,17 @@
+<?php
+
+echo $title;
+?>
+
+<br>
+<br>
+<form action="/file/upload" method="post" enctype="multipart/form-data">
+    File:   <input type="file" name="file" value=""><br>
+
+    <input type="submit" value="Download">
+</form>
+
+<?php
+ include "list.phtml";
+
+?>

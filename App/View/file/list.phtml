@@ -1,0 +1,28 @@
+<?php /** @var  \App\Model\File[] $files */
+//var_dump($files);die();
+/** @var \App\Model\User[] $users */
+
+?>
+<?php if (!empty($users)): ?>
+
+<?php foreach ($users as $user): ?>
+
+<?php echo $user->getName() ?>
+
+<?php endforeach; ?>
+
+<?php endif; ?>
+
+<?php if (!empty($files)): ?>
+    <?php foreach ($files as $file): ?>
+
+<!--    --><?php echo $file->getId() ?>
+    <?php echo $file->name;?>
+    /<?php echo $file->upload_at ?>
+<!--    /--><?php echo $file->size ?>
+    <br>
+        <?php endforeach; ?>
+<?php else: ?>
+    Файлов нет
+<?php endif; ?>
+

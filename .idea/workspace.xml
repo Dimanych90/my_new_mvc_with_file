@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12720c51-ed77-42e9-95b7-92ab383c9e5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="a582da21-1fba-40eb-ac94-26c5338a4570" />
+    </execution>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="newmvc" id="d21e9635-6eb0-4a82-9487-cd86783d7b5b" name="newmvc" />
+      <server host="127.0.0.1" id="e4742117-acc2-4c8b-acaf-067a22d35fef" name="127.0.0.1" />
+    </servers>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="phtml" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1h9Lc7nCcVaDm5Ltfjbqu9RiUAh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\progs\OpenServer\domains\newmvc\App\View\user" />
+      <recent name="C:\progs\OpenServer\domains\newmvc\App\View" />
+      <recent name="C:\progs\OpenServer\domains\newmvc\App\Controller" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12720c51-ed77-42e9-95b7-92ab383c9e5e" name="Default Changelist" comment="" />
+      <created>1599418437587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599418437587</updated>
+      <workItem from="1599418438673" duration="1225000" />
+      <workItem from="1601889916284" duration="35000" />
+      <workItem from="1601890015983" duration="20000" />
+      <workItem from="1603192483533" duration="1953000" />
+      <workItem from="1603195072909" duration="6131000" />
+      <workItem from="1603212077463" duration="896000" />
+      <workItem from="1603227438795" duration="3428000" />
+      <workItem from="1603275060545" duration="24000" />
+      <workItem from="1603374305728" duration="2590000" />
+      <workItem from="1603384077034" duration="1175000" />
+      <workItem from="1603397871153" duration="3899000" />
+      <workItem from="1603448378513" duration="1419000" />
+      <workItem from="1603543106943" duration="4271000" />
+      <workItem from="1603555110543" duration="7664000" />
+      <workItem from="1603566060242" duration="4051000" />
+      <workItem from="1603577091652" duration="258000" />
+      <workItem from="1603678853491" duration="3783000" />
+      <workItem from="1603735973927" duration="7566000" />
+      <workItem from="1603755720985" duration="3876000" />
+      <workItem from="1603805363577" duration="6354000" />
+      <workItem from="1603844947568" duration="17000" />
+      <workItem from="1603914759713" duration="3463000" />
+      <workItem from="1604014334878" duration="583000" />
+      <workItem from="1604168571733" duration="6735000" />
+      <workItem from="1604241025034" duration="13015000" />
+      <workItem from="1604268330505" duration="9000" />
+      <workItem from="1604270037054" duration="89000" />
+      <workItem from="1604286038396" duration="8000" />
+      <workItem from="1604340277094" duration="1509000" />
+      <workItem from="1604341823370" duration="1240000" />
+      <workItem from="1604343713424" duration="1749000" />
+      <workItem from="1604355036451" duration="4610000" />
+      <workItem from="1604529320517" duration="7498000" />
+      <workItem from="1604656399368" duration="3843000" />
+      <workItem from="1604667723967" duration="1986000" />
+      <workItem from="1604675963648" duration="5900000" />
+      <workItem from="1604834961363" duration="3031000" />
+      <workItem from="1604861276669" duration="10992000" />
+      <workItem from="1604952294910" duration="6340000" />
+      <workItem from="1605029579515" duration="2277000" />
+      <workItem from="1605070922219" duration="5067000" />
+      <workItem from="1605087357777" duration="2627000" />
+      <workItem from="1605093643496" duration="249000" />
+      <workItem from="1605235792323" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="0" key="#CLI_Interpreters" timestamp="1604341743289">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1604341743289" />
+    <state x="451" y="220" key="#Composer" timestamp="1603195090247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="451" y="220" key="#Composer/0.0.1280.680@0.0.1280.680" timestamp="1603195090247" />
+    <state x="267" y="19" key="#Inspections" timestamp="1603195270372">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1603195270372" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604341785902">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1604341785902" />
+    <state x="435" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1604357540734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1604357540734" />
+    <state x="278" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603448448508">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="278" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1603448448508" />
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1604259545301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1604259545301" />
+    <state x="418" y="253" width="444" height="264" key="ComposerInitDialogKey" timestamp="1603193262390">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="418" y="253" width="444" height="264" key="ComposerInitDialogKey/0.0.1280.680@0.0.1280.680" timestamp="1603193262390" />
+    <state width="463" height="438" key="DebuggerActiveHint" timestamp="1605088874049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="463" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1605088874049" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1605090003594">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605090003594" />
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom" timestamp="1605090009021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605090009021" />
+    <state width="1237" height="202" key="GridCell.Tab.0.center" timestamp="1605090009021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605090009021" />
+    <state width="1237" height="202" key="GridCell.Tab.0.left" timestamp="1605090009021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605090009021" />
+    <state width="1237" height="202" key="GridCell.Tab.0.right" timestamp="1605090009021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605090009021" />
+    <state width="1237" height="202" key="GridCell.Tab.1.bottom" timestamp="1605090009022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605090009022" />
+    <state width="1237" height="202" key="GridCell.Tab.1.center" timestamp="1605090009022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1605090009022" />
+    <state width="1237" height="202" key="GridCell.Tab.1.left" timestamp="1605090009022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1605090009022" />
+    <state width="1237" height="202" key="GridCell.Tab.1.right" timestamp="1605090009022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1605090009022" />
+    <state width="1237" height="202" key="GridCell.Tab.2.bottom" timestamp="1605090009023">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605090009023" />
+    <state width="1237" height="202" key="GridCell.Tab.2.center" timestamp="1605090009023">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1605090009023" />
+    <state width="1237" height="202" key="GridCell.Tab.2.left" timestamp="1605090009022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1605090009022" />
+    <state width="1237" height="202" key="GridCell.Tab.2.right" timestamp="1605090009023">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="202" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1605090009023" />
+    <state x="407" y="64" key="NewPhpClassDialog" timestamp="1604536441247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="407" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1604536441247" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1604174123259">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1604174123259" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1604341749897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1604341749897" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603192682835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603192682835" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>12</line>
+          <properties>
+            <option name="className" value="\App\Controller\Index" />
+            <option name="methodName" value="indexAction" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Controller.php</url>
+          <line>30</line>
+          <properties>
+            <option name="className" value="\Base\Controller" />
+            <option name="methodName" value="setView" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Model.php</url>
+          <line>43</line>
+          <properties>
+            <option name="className" value="\Base\Model" />
+            <option name="methodName" value="save" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Model.php</url>
+          <line>35</line>
+          <properties>
+            <option name="className" value="\Base\Model" />
+            <option name="methodName" value="getId" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Controller.php</url>
+          <line>36</line>
+          <properties>
+            <option name="className" value="\Base\Controller" />
+            <option name="methodName" value="redirect" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/View/user/list.phtml</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/Controller/File.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?php
+
+
+/** @var \App\Model\User[] $users */
+//var_dump($users);
+?>
+
+<?php if (!empty($users)):?>
+<?php foreach ($users as $user):?>
+        <?php echo $user->getId(); ?> <span class="img"><img src="<?php echo $user->getAvatarUrl(); ?>" alt="photo" width="100" height="100"></span> <?php echo $user->getName();?> <?php echo $user->getBirthdate(); ?><br>
+    <?php endforeach; ?>
+<?php else: ?>
+Пользователей нет
+<?php endif; ?>
+
+<style>
+    .post {
+        border: 1px solid grey;
+        margin-top: 10px;
+        padding: 5px;
+        width: 250px;
+    }
+
+    .user {
+        color: grey;
+        font-size: 11px;
+    }
+
+    .message {
+        margin-top: 5px;
+        padding-left: 5px;
+    }
+
+    .img {
+        width: 2px;
+        height: 60px;
+        border: 2px;
+    }
+</style>
